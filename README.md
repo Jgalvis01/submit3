@@ -1,4 +1,5 @@
 # MPI Programming Exercises - Parallel Computing
+# Julian Galvis - Rui Yu - Benjamin Ortiz - Marco Riascos
 
 Este repositorio contiene tres ejercicios de programación paralela usando MPI (Message Passing Interface) en C++.
 
